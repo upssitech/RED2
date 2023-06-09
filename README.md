@@ -1,4 +1,4 @@
-# UE RED² - R\_econnaissance, \_E\_ngagement et \_D\_éveloppement \_D\_urable
+# UE RED² - *R*econnaissance, *E*ngagement et *D*éveloppement *D*urable
 
 ## Présentation de l'UE
 

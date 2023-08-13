@@ -4,10 +4,10 @@
 * Extrait du Règlement des Etudes sur l'UE
 
 ## Outils et fiches actions
-* Fiche action Président de BDE
-* Fiche action Secouriste
-* Fiche action animateur BAFA
-* Fiche action animateur "Fresque du Climat"
+* Fiche action **Président de BDE**
+* Fiche action **Secouriste**
+* Fiche action **animateur BAFA**
+* Fiche action **animateur "Fresque du Climat"**
 
 ## MOOCs
 * [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels 

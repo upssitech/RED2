@@ -1,5 +1,7 @@
 # UE RED² - *R*econnaissance, *E*ngagement et *D*éveloppement *D*urable
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&src=NjMzODZjYTNlZTM1MGNkYjkxMGI2NGM1MzhlNGE5MGQwZGJiYWI2MTVjZWZmODY3Y2U1YjYyOGMxOGMzZjZhZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Présentation de l'UE
 * Extrait du Règlement des Etudes sur l'UE
 

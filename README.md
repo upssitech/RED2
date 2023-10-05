@@ -6,27 +6,34 @@
 ## Présentation de l'UE
 * Extrait du Règlement des Etudes sur l'UE
 
-## Outil d'auto-évaluation
-
-
 ## Outils et fiches actions
-* Fiche action **[Président de BDE](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_president_BDE.pdf)**
-* Fiche action **[Secouriste](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_BAFA.pdf)**
-* Fiche action **[animateur BAFA](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_BAFA.pdf)**
-* Fiche action **[animateur de la "Fesque du Climat"](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_fresque.pdf)**
+* **Axe 1 - développer ses compétences**
+  * Pratique sportive en club
+  * Ateliers FabLab
+    
+* **Axe 2 - valoriser le sens du service**
+  * Fiche action **[Président de BDE](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_president_BDE.pdf)**
+  * Fiche action **[animateur de la "Fesque du Climat"](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_fresque.pdf)**
+  * Fiche action **[animateur BAFA](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_BAFA.pdf)**
+  * Fiche action **[Secouriste](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_BAFA.pdf)**
+  * Fiche action **Tutorat**
+    
+* **Axe 3 - explorer le monde et agir pour lui**
+  * ** Atelier Fresques** 
+    * [La Fresque du Climat](https://fresqueduclimat.org)
+    * [La Fresque du Plastique](https://fresqueduplastique.fr)
+    * [La Fresque du Numérique](https://www.fresquedunumerique.org)
+    
+* **Axe 4  - élargir ses horizons et donner du sens**
+  * [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels
+  * [UVED](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation
+  * **Outil d'auto-évaluation**
 
-## MOOCs
-* [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels
-* [UVED](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation
-
-## Fresques
-* [La Fresque du Climat](https://fresqueduclimat.org)
-* [La Fresque du Plastique](https://fresqueduplastique.fr)
-* [La Fresque du Numérique](https://www.fresquedunumerique.org)
 
 ## Documents utiles 
 * [Guide Pratique Valorisation de l’Engagement Etudiant](https://www.bnei.fr/projets/guide-de-valorisation-de-lengagement-etudiant-bnei-cdefi-cti)
 * [Objectifs de développement de développement durable des Nations Unies](https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable)
 
-
 ## Liens vers des Partenaires identifiés
+* [Programme OSE L'ISAE](https://fondation-isae-supaero.org/ose-lisae-supaero)
+* [Association Latitudes](https://www.latitudes.cc)

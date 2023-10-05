@@ -4,7 +4,7 @@
 
 
 ## Présentation de l'UE
-* Extrait du Règlement des Etudes sur l'UE
+* [Extrait du Règlement des Etudes sur l'UE](https://github.com/upssitech/RED2/blob/main/documents/RDE%C2%B2_RE.pdf)
 
 ## Outils et fiches actions
 * **Axe 1 - développer ses compétences**
@@ -27,7 +27,7 @@
 * **Axe 4  - élargir ses horizons et donner du sens**
   * [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels
   * [UVED](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation
-  * **Outil d'auto-évaluation**
+  * [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf)
 
 
 ## Documents utiles 

@@ -13,7 +13,7 @@
     
 * **Axe 2 - valoriser le sens du service**
   * Fiche action **[Président de BDE](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_president_BDE.pdf)**
-  * Fiche action **[animateur de la "Fesque du Climat"](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_fresque.pdf)**
+  * Fiche action **[animateur de la "Fresque du Climat"](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_fresque.pdf)**
   * Fiche action **[animateur BAFA](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_BAFA.pdf)**
   * Fiche action **[Secouriste](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_animateur_BAFA.pdf)**
   * Fiche action **Tutorat**

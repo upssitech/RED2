@@ -19,7 +19,7 @@
   * Fiche action **Tutorat**
     
 * **Axe 3 - explorer le monde et agir pour lui**
-  * ** Atelier Fresques** 
+  * **Atelier Fresques** 
     * [La Fresque du Climat](https://fresqueduclimat.org)
     * [La Fresque du Plastique](https://fresqueduplastique.fr)
     * [La Fresque du Numérique](https://www.fresquedunumerique.org)

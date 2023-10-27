@@ -26,8 +26,9 @@
     
 * **Axe 4  - élargir ses horizons et donner du sens**
   * [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels
+  * [UVED](https://moodle.uved.fr) - Modules de la fondation UVED - Former aux transformations écologique et sociétale
   * [UVED](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation
-  * [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf)
+  * [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf). La version en ligne a été envoyée par mél.
 
 
 ## Documents utiles 

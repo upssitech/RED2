@@ -6,7 +6,7 @@
 ## Présentation de l'UE
 * [Extrait du Règlement des Etudes sur l'UE](https://github.com/upssitech/RED2/blob/main/documents/RDE%C2%B2_RE.pdf)
 * [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf). La version en ligne a été envoyée par mél.
-* [Critères d'évaluation de l'UE]()
+* [Critères d'évaluation de l'UE](https://github.com/upssitech/RED2/blob/main/documents/Grille_Eval_RED2.pdf)
 
 ## Outils et fiches actions
 * **Axe 1 - développer ses compétences**

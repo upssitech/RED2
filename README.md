@@ -5,6 +5,8 @@
 
 ## Présentation de l'UE
 * [Extrait du Règlement des Etudes sur l'UE](https://github.com/upssitech/RED2/blob/main/documents/RDE%C2%B2_RE.pdf)
+* [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf). La version en ligne a été envoyée par mél.
+* [Critères d'évaluation de l'UE]()
 
 ## Outils et fiches actions
 * **Axe 1 - développer ses compétences**
@@ -26,12 +28,11 @@
     * [La Fresque du Numérique](https://www.fresquedunumerique.org)
     
 * **Axe 4  - élargir ses horizons et donner du sens**
-  * [Atlier Ethique 1 nous dans le cadre du développement de Smart Citues] (Atelier proposé par l'Ecole dans le cadre du Festival Futurs Proches]  
+  * [Atelier Ethique & nous dans le cadre du développement de Smart Cituis]() - Atelier proposé par l'Ecole dans le cadre du Festival Futurs Proches 
   * [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels
   * [UVED](https://moodle.uved.fr) - Modules de la fondation UVED - Former aux transformations écologique et sociétale
   * [UVED](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation
-  * [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf). La version en ligne a été envoyée par mél.
-
+    
 
 ## Documents utiles 
 * [Guide Pratique Valorisation de l’Engagement Etudiant](https://www.bnei.fr/projets/guide-de-valorisation-de-lengagement-etudiant-bnei-cdefi-cti)

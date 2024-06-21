@@ -31,7 +31,7 @@
   * [Atelier Ethique & nous dans le cadre du développement de Smart Cituis]() - Atelier proposé par l'Ecole dans le cadre du Festival Futurs Proches 
   * [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels
   * [UVED](https://moodle.uved.fr) - Modules de la fondation UVED - Former aux transformations écologique et sociétale
-  * [UVED](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation
+  * [FUN-MOOC](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation
     
 
 ## Documents utiles 

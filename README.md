@@ -21,10 +21,12 @@
 * **Axe 3 - explorer le monde et agir pour lui**
   * **Atelier Fresques** 
     * [La Fresque du Climat](https://fresqueduclimat.org)
+    * [La Fresque du Sol](https://fresquedusol.com)
     * [La Fresque du Plastique](https://fresqueduplastique.fr)
     * [La Fresque du Numérique](https://www.fresquedunumerique.org)
     
 * **Axe 4  - élargir ses horizons et donner du sens**
+  * [Atlier Ethique 1 nous dans le cadre du développement de Smart Citues] (Atelier proposé par l'Ecole dans le cadre du Festival Futurs Proches]  
   * [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels
   * [UVED](https://moodle.uved.fr) - Modules de la fondation UVED - Former aux transformations écologique et sociétale
   * [UVED](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation

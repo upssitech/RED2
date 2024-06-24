@@ -28,7 +28,7 @@
     * [La Fresque du Numérique](https://www.fresquedunumerique.org)
     
 * **Axe 4  - élargir ses horizons et donner du sens**
-  * [Atelier Ethique & nous dans le cadre du développement de Smart Cituis]() - Atelier proposé par l'Ecole dans le cadre du Festival Futurs Proches 
+  * [Atelier Ethique & nous dans le cadre du développement de Smart Cities]() - Atelier proposé par l'Ecole dans le cadre du Festival Futurs Proches 
   * [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels
   * [UVED](https://moodle.uved.fr) - Modules de la fondation UVED - Former aux transformations écologique et sociétale
   * [FUN-MOOC](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation

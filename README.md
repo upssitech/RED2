@@ -8,6 +8,8 @@
 * [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf). La version en ligne a été envoyée par mél.
 * [Critères d'évaluation de l'UE](https://github.com/upssitech/RED2/blob/main/documents/Grille_Eval_RED2.pdf)
 
+Cette UE s'inspire aussi de la [Charte éthique de l'Ingénieur](https://www.iesf.fr/752_p_49680/charte-ethique-de-l-ingenieur.html)
+
 ## Outils et fiches actions
 * **Axe 1 - développer ses compétences**
   * Pratique sportive en club
@@ -36,6 +38,7 @@
 
 ## Documents utiles 
 * [Guide Pratique Valorisation de l’Engagement Etudiant](https://www.bnei.fr/projets/guide-de-valorisation-de-lengagement-etudiant-bnei-cdefi-cti)
+* [Charte éthique de l'Ingénieur](https://www.iesf.fr/752_p_49680/charte-ethique-de-l-ingenieur.html)
 * [Objectifs de développement de développement durable des Nations Unies](https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable)
 
 ## Liens vers des Partenaires identifiés

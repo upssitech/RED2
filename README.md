@@ -8,12 +8,13 @@
 * [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf). La version en ligne a été envoyée par mél.
 * [Critères d'évaluation de l'UE](https://github.com/upssitech/RED2/blob/main/documents/Grille_Eval_RED2.pdf)
 
-Cette UE s'inspire aussi de la [Charte éthique de l'Ingénieur](https://www.iesf.fr/752_p_49680/charte-ethique-de-l-ingenieur.html)
+Cette UE s'inspire aussi de la [Charte éthique de l'Ingénieur de l'IESF](https://www.iesf.fr/752_p_49680/charte-ethique-de-l-ingenieur.html
 
+Vous trouverez ci-dessous quelques éléments de réflexion sur les différents axes de l'UE (*non exhaustif*)
 ## Outils et fiches actions
 * **Axe 1 - développer ses compétences**
-  * Pratique sportive en club
-  * Ateliers FabLab
+  * Pratique sportive en club, à l'université ou personnelle
+  * [Ateliers FabLab](https://www.univ-tlse3.fr/lieux-de-ressources/campus-fab)
     
 * **Axe 2 - valoriser le sens du service**
   * Fiche action **[Président de BDE](https://github.com/upssitech/RED2/blob/main/fiches/Fiche_president_BDE.pdf)**
@@ -39,7 +40,7 @@ Cette UE s'inspire aussi de la [Charte éthique de l'Ingénieur](https://www.ies
 ## Documents utiles 
 * [Guide Pratique Valorisation de l’Engagement Etudiant](https://www.bnei.fr/projets/guide-de-valorisation-de-lengagement-etudiant-bnei-cdefi-cti)
 * [Charte éthique de l'Ingénieur](https://www.iesf.fr/752_p_49680/charte-ethique-de-l-ingenieur.html)
-* [Objectifs de développement de développement durable des Nations Unies](https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable)
+* [Objectifs de développement durable des Nations Unies](https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable)
 
 ## Liens vers des Partenaires identifiés
 * [Programme OSE L'ISAE](https://fondation-isae-supaero.org/ose-lisae-supaero)

@@ -4,13 +4,14 @@
 
 **Evénements liés à l'UE** : [Calendrier UE RED²](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&src=NjMzODZjYTNlZTM1MGNkYjkxMGI2NGM1MzhlNGE5MGQwZGJiYWI2MTVjZWZmODY3Y2U1YjYyOGMxOGMzZjZhZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60")
 
+**Prendre rendez-vous pour l'entretien individuel**
 
 ## Présentation de l'UE
 * [Extrait du Règlement des Etudes sur l'UE](https://github.com/upssitech/RED2/blob/main/documents/RDE%C2%B2_RE.pdf)
 * [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf). La version en ligne a été envoyée par mél.
 * [Critères d'évaluation de l'UE](https://github.com/upssitech/RED2/blob/main/documents/Grille_Eval_RED2.pdf)
 
-Cette UE s'inspire aussi de la [Charte éthique de l'Ingénieur de l'IESF](https://www.iesf.fr/752_p_49680/charte-ethique-de-l-ingenieur.html
+Cette UE s'inspire aussi de la [Charte éthique de l'Ingénieur de l'IESF](https://www.iesf.fr/752_p_49680/charte-ethique-de-l-ingenieur.html)
 
 Vous trouverez ci-dessous quelques éléments de réflexion sur les différents axes de l'UE (*non exhaustif*)
 ## Outils et fiches actions

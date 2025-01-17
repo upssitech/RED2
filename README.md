@@ -33,7 +33,7 @@ Vous trouverez ci-dessous quelques éléments de réflexion sur les différents 
     * [La Fresque du Numérique](https://www.fresquedunumerique.org)
     
 * **Axe 4  - élargir ses horizons et donner du sens**
-  * [Atelier Ethique & nous dans le cadre du développement de Smart Cities]() - Atelier proposé par l'Ecole dans le cadre du Festival Futurs Proches  : [*Programme*](https://github.com/upssitech/RED2/blob/main/ateliers/Programme_Ethique_campus_intelligent.pdf) et [*Présentation*](https://github.com/upssitech/RED2/blob/main/ateliers/Diaporama_Ethique_campus_intelligent.pdf)
+  * [Atelier Ethique & nous dans le cadre du développement de Smart Cities]() - Atelier proposé par l'Ecole dans le cadre du Festival [Futurs Proches](https://futurs-proches.univ-toulouse.fr) : [*Présentation*](https://github.com/upssitech/RED2/blob/main/ateliers/Futurs_Proches/Ethique_campus_intelligent.pdf) et [*grille des chapeaux de Bono*](https://github.com/upssitech/RED2/blob/main/ateliers/Futurs_Proches/bono-ethique.pdf)
   * [POMI](https://foad.univ-toulouse.fr/course/view.php?id=4) - Se former aux enjeux interculturels
   * [UVED](https://moodle.uved.fr) - Modules de la fondation UVED - Former aux transformations écologique et sociétale
   * [FUN-MOOC](https://www.fun-mooc.fr/fr/cours/changement-climatique-impacts-attenuation-et-adaptation) - Changement climatique : impacts, atténuation et adaptation

@@ -5,7 +5,7 @@
 
 L'UE repose sur deux moments importants obligatoires pour valider l'UE
 * **A l'arrivée en 1A (CPI) et 3A (toutes filières)** : un questionnaire d'auto-évaluation à remplir (mien reçu par mél)
-* **Un entretien individuel bilan (1 heure environ) pour les 5A (toutes filières)** en *présentiel* ou *distanciel* -->  **Prendre rendez-vous pour [l'entretien individuel](https://calendar.app.google/7FGSmp1BDUoDn1ro8)**
+* **Un entretien individuel bilan (1 heure environ) pour les 5A (toutes filières)** en *présentiel* ou *distanciel* -->  **[Prendre Rendez-Vous](https://calendar.app.google/7FGSmp1BDUoDn1ro8)**
 
 ## Présentation de l'UE
 * [Extrait du Règlement des Etudes sur l'UE](https://github.com/upssitech/RED2/blob/main/documents/RDE%C2%B2_RE.pdf)

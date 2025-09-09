@@ -2,6 +2,9 @@
 
 # UE RED² - *R*econnaissance, *E*ngagement et *D*éveloppement *D*urable (KUPXABA1)
 
+https://github.com/upssitech/RED2/blob/main/documents/Dispositifs_publics_Engagement_2025.pdf
+
+
 * **Evénements liés à l'UE** : [Calendrier UE RED²](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&src=NjMzODZjYTNlZTM1MGNkYjkxMGI2NGM1MzhlNGE5MGQwZGJiYWI2MTVjZWZmODY3Y2U1YjYyOGMxOGMzZjZhZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60")
 * **Questionnaire d'auto-évaluation** à remplir
 * **Prendre rendez-vous pour [l'entretien individuel](https://calendar.app.google/7FGSmp1BDUoDn1ro8)** (Réservé prioritairement aux 5A)

@@ -9,7 +9,7 @@ L'UE repose sur deux moments importants obligatoires pour valider l'UE
 
 ## Présentation de l'UE
 * [Extrait du Règlement des Etudes sur l'UE](https://github.com/upssitech/RED2/blob/main/documents/RDE%C2%B2_RE.pdf)
-* [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf). La version en ligne a été envoyée par mél.
+* [**Outil d'auto-évaluation**](https://github.com/upssitech/RED2/blob/main/documents/autoEvaluation.pdf). La version en ligne est envoyée par mél aux 1A et 3A
 * [Critères d'évaluation de l'UE](https://github.com/upssitech/RED2/blob/main/documents/Grille_Eval_RED2.pdf)
 
 Cette UE s'inspire aussi de la [Charte éthique de l'Ingénieur de l'IESF](https://www.iesf.fr/752_p_49680/charte-ethique-de-l-ingenieur.html)

@@ -1,13 +1,11 @@
 <img src="https://github.com/truillet/upssitech/blob/master/logo_upssitech.png" width=150>
 
 # UE RED² - *R*econnaissance, *E*ngagement et *D*éveloppement *D*urable (KUPXABA1)
-
-https://github.com/upssitech/RED2/blob/main/documents/Dispositifs_publics_Engagement_2025.pdf
-
-
 * **Evénements liés à l'UE** : [Calendrier UE RED²](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&src=NjMzODZjYTNlZTM1MGNkYjkxMGI2NGM1MzhlNGE5MGQwZGJiYWI2MTVjZWZmODY3Y2U1YjYyOGMxOGMzZjZhZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60")
-* **Questionnaire d'auto-évaluation** à remplir
-* **Prendre rendez-vous pour [l'entretien individuel](https://calendar.app.google/7FGSmp1BDUoDn1ro8)** (Réservé prioritairement aux 5A)
+
+L'UE repose sur deux moments importants obligatoires pour valider l'UE
+* **A l'arrivée en 1A (CPI) et 3A (toutes filières)** : un questionnaire d'auto-évaluation à remplir (mien reçu par mél)
+* **Un entretien individuel bilan (1 heure environ) pour les 5A (toutes filières)** en *présentiel* ou *distanciel* -->  **Prendre rendez-vous pour [l'entretien individuel](https://calendar.app.google/7FGSmp1BDUoDn1ro8)**
 
 ## Présentation de l'UE
 * [Extrait du Règlement des Etudes sur l'UE](https://github.com/upssitech/RED2/blob/main/documents/RDE%C2%B2_RE.pdf)
@@ -44,6 +42,7 @@ Vous trouverez ci-dessous quelques éléments de réflexion sur les différents 
     
 
 ## Documents utiles 
+* [L'Engagement Citoyen - Les Dispositifs Publics - 2025](https://github.com/upssitech/RED2/blob/main/documents/Dispositifs_publics_Engagement_2025.pdf)
 * [Guide Pratique Valorisation de l’Engagement Etudiant](https://www.bnei.fr/projets/guide-de-valorisation-de-lengagement-etudiant-bnei-cdefi-cti)
 * [Charte éthique de l'Ingénieur](https://www.iesf.fr/752_p_49680/charte-ethique-de-l-ingenieur.html)
 * [Objectifs de développement durable des Nations Unies](https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable)
